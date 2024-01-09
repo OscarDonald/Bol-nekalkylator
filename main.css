@@ -1,0 +1,10 @@
+.calculator-div {
+    display: flex;
+}
+.calculator {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin: 0 auto;
+    margin-top: 200px;
+}
